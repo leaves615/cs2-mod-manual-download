@@ -149,7 +149,6 @@
         statusDiv.style.right = '20px';
         statusDiv.style.zIndex = '9999';
         statusDiv.style.padding = '10px';
-        statusDiv.style.backgroundColor = 'white';
         statusDiv.style.border = '1px solid #ddd';
         statusDiv.style.borderRadius = '5px';
         statusDiv.style.display = 'none';
